@@ -3,7 +3,7 @@ token: token             # Replace with a desired token
 os:
   hostname: node1        # Set a hostname. This can be omitted if DHCP server offers hostnames.
   ssh_authorized_keys:
-  - ssh-rsa ...          # Replace with your public key
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDHi2nERpA7LgenPrQARllH1+p0L2BIIQbaoRhUtXB7Q6nax+VI5Fcwz2w36Vv+OaWPJmfo0F8D9CnE9YriSd2pm5GDCMX+F7N2EuTl2PnL+c6zydvmvP+P3gKwteILhc2eoqnwvrdY+65nPtkg1YconvkTIZGsiljj7Z05j34Uk6szup908QU6CeEIsvSvaJpNlo272EvSEBJdZ3722X1OQMBSdxu82GO8Lhs2hxzQVKrQKq1eAexNVp5/w8YnV4GO51NWGPdI0S43zcsAb/0LegcrdaKRAP5kYnJeETBadw3hPS9WCyUEZzHJnzamcOWE11mGFylWfxne60hDqRtAMuODJYAH2MziOch7IcOvg3ShBuUQT8HcZMKwEiORJeLASJjc0GIYv+0rTCPPLAPWOiIepKoqrnkEVZpdmuCBLqyU3EB3mq7TGJn9MTuVP2cc1WJxUmkSB973noeZvnYaT7wG9sP3V7QKenCY15NKLixEg9ne1+xdU6I3lHPSYWgvjJdqvgCjGriksDcISKcWbnE87QZXPmmaU62FZQaFxbpDUUmcGeuIyiW8/a1wfUlC5D4w7elk7fnRdvFP+zeqMLPMDi4ea0PIMVjgIcmjTE2MioXjRLtEpju0xTG2S2fn7SlQTn9jy8DoPGBamAWTj2cn54+J5uWEA6JvDXK+0Q==# Replace with your public key
   password: p@ssword     # Replace with a your password
   ntp_servers:
   - 0.suse.pool.ntp.org
